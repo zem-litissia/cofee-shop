@@ -1,0 +1,111 @@
+/* Apply background color to all elements */
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display+SC:wght@700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Cursive&display=swap');
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+header {
+    background-image: url('coffee-menu4.png');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 102vh; 
+    border: #4d370d solid 2px;
+}
+
+nav {
+    display: flex;
+    padding-top: 1%;
+    justify-content: center; 
+    align-items: center;
+    height: 50px; 
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    display: inline;
+    margin-right: 20px; 
+}
+
+a {
+    background-color: rgba(45, 31, 14, 0.813);
+    color: #baa57b;
+    padding-bottom: 0%;
+    font-family: "Playfair Display SC", serif;
+    font-size:larger;
+    
+}
+.nav2{
+    background-image: url('cake-nav.png');
+    background-size: cover;
+    padding-top: 3%;
+    height: 170px;
+}
+.nav2 h1{
+    padding-top: 7%;
+    color: #f7e1ce;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, serif;
+}
+main{
+    background-color: #faf4df;
+    border: #4d370d solid 2px;
+    width: 100%;
+    height: 100%;
+}
+.sec1{
+    border: #4d370d solid 2px;
+}
+.image{
+    margin :4px;
+    height:300px;
+    display:inline;
+    padding-top: 2px;
+    border: #4d370d solid 2px;
+    position:relative;
+}
+.sec2{
+    background-image: url('juce-nav1.png');
+    background-size: cover;
+    padding-top: 3%;
+    height: 170px;
+}
+.sec2 h1{
+    padding-top: 7%;
+    color: #f7e1ce;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, serif;
+}
+.sec3{
+    border: #4d370d solid 2px;
+}
+.sec4{
+    background-image: url('cafe-nav1.png');
+    background-size: cover;
+    padding-top: 3%;
+    height: 170px;
+}
+.sec4 h1{
+    padding-top: 7%;
+    text-align: center;
+    color: #f7e1ce;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, serif;
+}
+.sec5{
+    border: #4d370d solid 2px;
+}
+
+footer{
+    border: #4d370d solid 2px;
+    background-color: #B38E6E;
+    height: 50px;
+}
+footer p{
+   text-align: center;
+}
