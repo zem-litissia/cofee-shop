@@ -1,4 +1,4 @@
 # cofee-shop
 ###statique web site 
-#####**mini_projet **
+####mini_projet
 **first web page**
