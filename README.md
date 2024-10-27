@@ -1,3 +1,4 @@
 # cofee-shop
 statique web site 
-mini_projet:daw
+mini_projet 
+first web page
